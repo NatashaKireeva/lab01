@@ -58,7 +58,8 @@ public class FirstServletAndLog4J extends HttpServlet implements Servlet
         response.getWriter().print("This is " + this.getClass().getName() + ", using the GET method <br>");
         response.getWriter().print("Servlet config: " + this.getServletConfig() + ", using the GET method <br>");
         response.getWriter().print("Your IP adress is: " + request.getRemoteAddr() + "<br>");
-        //response.sendRedirect("https://getbootstrap.com/2.3.2/examples/carousel.html");
+        
+        response.sendRedirect("https://getbootstrap.com/2.3.2/examples/carousel.html");
         //response.sendRedirect("index.jsp");
 
         logger.info("Hello from Log4j!!!");

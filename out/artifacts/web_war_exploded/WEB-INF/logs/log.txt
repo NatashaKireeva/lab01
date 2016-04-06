@@ -1,0 +1,16 @@
+2016-04-06 16:17:29,219 INFO  FirstServletAndLog4J [084-exec-7] This is lab01.FirstServletAndLog4J, using the GET method
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] GET
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] 
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] 
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] 
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] 
+2016-04-06 16:17:29,220 INFO  FirstServletAndLog4J [084-exec-7] /servlettest-log4j
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] /servlettest-log4j
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] Hello from Log4j!!!
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] Connection was established with 127.0.0.1
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] There are examples of different log-message levels:
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] - Info level message
+2016-04-06 16:17:29,221 WARN  FirstServletAndLog4J [084-exec-7] - Warn level message
+2016-04-06 16:17:29,221 ERROR FirstServletAndLog4J [084-exec-7] - Error level message
+2016-04-06 16:17:29,221 FATAL FirstServletAndLog4J [084-exec-7] - Fatal level message
+2016-04-06 16:17:29,221 INFO  FirstServletAndLog4J [084-exec-7] Wow! I'm configured!
