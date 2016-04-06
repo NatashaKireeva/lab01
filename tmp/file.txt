@@ -1,3 +1,4 @@
 It is ignore file
 
 first line
+second line
